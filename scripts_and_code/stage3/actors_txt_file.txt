@@ -1,0 +1,4282 @@
+<Sentences>
+<Sentence date = "20000715" id="0" source = "afp" sentence = "True">
+<Text>
+مهاجم انتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="1" source = "afp" sentence = "True">
+<Text>
+عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="2" source = "afp" sentence = "True">
+<Text>
+قوة من شرطة عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="3" source = "afp" sentence = "True">
+<Text>
+جندي باكستانيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="4" source = "afp" sentence = "True">
+<Text>
+جيش أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="5" source = "afp" sentence = "True">
+<Text>
+مجهول 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="6" source = "afp" sentence = "True">
+<Text>
+تحالف دولي ب قيادة ولاية متحد في أفغانستان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="7" source = "afp" sentence = "True">
+<Text>
+مقاتل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="8" source = "afp" sentence = "True">
+<Text>
+وكيل وزارة نفط عراقي عبد الجبار الوكاع 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="9" source = "afp" sentence = "True">
+<Text>
+متشدد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="10" source = "afp" sentence = "True">
+<Text>
+بيل مهغراة ونيل موريس،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="11" source = "afp" sentence = "True">
+<Text>
+مدير مكتب وزير داخلي في رام الله إيهاب سليمان غيظان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="12" source = "afp" sentence = "True">
+<Text>
+أربعة أميركي ونمساوي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="13" source = "afp" sentence = "True">
+<Text>
+شارع يافا قرب سوق محني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="14" source = "afp" sentence = "True">
+<Text>
+60 شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="15" source = "afp" sentence = "True">
+<Text>
+مطعم فندق ومقتل ومقتل فتاة صغير و إصابة نادل.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="16" source = "afp" sentence = "True">
+<Text>
+سايقا شاحنة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="17" source = "afp" sentence = "True">
+<Text>
+ساحبة ل رفع النفايات و أصاب سائق هو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="18" source = "afp" sentence = "True">
+<Text>
+حافلة تابع ل شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="19" source = "afp" sentence = "True">
+<Text>
+جندي اسبانيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="20" source = "afp" sentence = "True">
+<Text>
+جيش باكستاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="21" source = "afp" sentence = "True">
+<Text>
+جبهة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="22" source = "afp" sentence = "True">
+<Text>
+رئيس تيمور شرقي خوسيه راموس هورتا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="23" source = "afp" sentence = "True">
+<Text>
+انتحاري».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="24" source = "afp" sentence = "True">
+<Text>
+شب)
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="25" source = "afp" sentence = "True">
+<Text>
+ثلاثة جندي أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="26" source = "afp" sentence = "True">
+<Text>
+ستة متشددين سلاميين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="27" source = "afp" sentence = "True">
+<Text>
+آخر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="28" source = "afp" sentence = "True">
+<Text>
+انتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="29" source = "afp" sentence = "True">
+<Text>
+عيادة ل بالوخز ب إبرة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="30" source = "afp" sentence = "True">
+<Text>
+ثلاثة رهينة».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="31" source = "afp" sentence = "True">
+<Text>
+اثنان من عنصر شرطة و إصابة ثلاثة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="32" source = "afp" sentence = "True">
+<Text>
+أنصار بهانغ 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="33" source = "afp" sentence = "True">
+<Text>
+مطران الكلدان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="34" source = "afp" sentence = "True">
+<Text>
+ثمانية شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="35" source = "afp" sentence = "True">
+<Text>
+تنظيم قاعدة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="36" source = "afp" sentence = "True">
+<Text>
+مسلحون صوماليون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="37" source = "afp" sentence = "True">
+<Text>
+موكب ل قوة أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="38" source = "afp" sentence = "True">
+<Text>
+نصر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="39" source = "afp" sentence = "True">
+<Text>
+متهم بالهجوم الانتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="40" source = "afp" sentence = "True">
+<Text>
+أفغان واميركيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="41" source = "afp" sentence = "True">
+<Text>
+مصنع عسكري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="42" source = "afp" sentence = "True">
+<Text>
+رئيس إقليم كردستان مسعود بارزاني)
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="43" source = "afp" sentence = "True">
+<Text>
+مسلح في شمال عراق 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="44" source = "afp" sentence = "True">
+<Text>
+ناشطا في كتيبة أقصى 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="45" source = "afp" sentence = "True">
+<Text>
+قبائل البشتون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="46" source = "afp" sentence = "True">
+<Text>
+مستوطنة كريات شمونة.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="47" source = "afp" sentence = "True">
+<Text>
+عنصر جيش 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="48" source = "afp" sentence = "True">
+<Text>
+منطقة الكرادة شرقي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="49" source = "afp" sentence = "True">
+<Text>
+قاعدة تابع ل جيش 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="50" source = "afp" sentence = "True">
+<Text>
+حجة إسلام هشام سيموري،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="51" source = "afp" sentence = "True">
+<Text>
+مكتب حزب في بلدة الجويبار 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="52" source = "afp" sentence = "True">
+<Text>
+و رجل شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="53" source = "afp" sentence = "True">
+<Text>
+أحد عنصر قوة عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="54" source = "afp" sentence = "True">
+<Text>
+تحرك هو،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="55" source = "afp" sentence = "True">
+<Text>
+متمردون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="56" source = "afp" sentence = "True">
+<Text>
+المتشددون موالي لطالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="57" source = "afp" sentence = "True">
+<Text>
+11 مسلح من تنظيم «قاعدة»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="58" source = "afp" sentence = "True">
+<Text>
+حراس أمن ألافغان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="59" source = "afp" sentence = "True">
+<Text>
+جندي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="60" source = "afp" sentence = "True">
+<Text>
+مدرسة للبنات ب قرب من سفارة أميركي في صنعاء،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="61" source = "afp" sentence = "True">
+<Text>
+مسلحون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="62" source = "afp" sentence = "True">
+<Text>
+حافلة قل عنصر من حرس ثوري،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="63" source = "afp" sentence = "True">
+<Text>
+عنصر قوة عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="64" source = "afp" sentence = "True">
+<Text>
+هليكوبتر «اباتشي»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="65" source = "afp" sentence = "True">
+<Text>
+مقر رئيسي للاستخبارات في عاصمة عمان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="66" source = "afp" sentence = "True">
+<Text>
+جندي عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="67" source = "afp" sentence = "True">
+<Text>
+جماعة إجرامي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="68" source = "afp" sentence = "True">
+<Text>
+فرد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="69" source = "afp" sentence = "True">
+<Text>
+فندق ماريوت في عاصمة باكستاني اسلام آباد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="70" source = "afp" sentence = "True">
+<Text>
+ولاية متحد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="71" source = "afp" sentence = "True">
+<Text>
+موقع عين صاحب،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="72" source = "afp" sentence = "True">
+<Text>
+مسجد في منطقة دير 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="73" source = "afp" sentence = "True">
+<Text>
+جماعة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="74" source = "afp" sentence = "True">
+<Text>
+بي نظير بوتو،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="75" source = "afp" sentence = "True">
+<Text>
+سياسي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="76" source = "afp" sentence = "True">
+<Text>
+15 شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="77" source = "afp" sentence = "True">
+<Text>
+بريطانيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="78" source = "afp" sentence = "True">
+<Text>
+11 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="79" source = "afp" sentence = "True">
+<Text>
+ل شيعة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="80" source = "afp" sentence = "True">
+<Text>
+أميركي ونمساوي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="81" source = "afp" sentence = "True">
+<Text>
+جميع.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="82" source = "afp" sentence = "True">
+<Text>
+موكب شيخ عبد كريم نصيف الجبوري،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="83" source = "afp" sentence = "True">
+<Text>
+رجل مسلح 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="84" source = "afp" sentence = "True">
+<Text>
+انتحاري،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="85" source = "afp" sentence = "True">
+<Text>
+طائرة ب دون طيار 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="86" source = "afp" sentence = "True">
+<Text>
+شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="87" source = "afp" sentence = "True">
+<Text>
+طائرة عسكري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="88" source = "afp" sentence = "True">
+<Text>
+إقليم حدودي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="89" source = "afp" sentence = "True">
+<Text>
+مقصف 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="90" source = "afp" sentence = "True">
+<Text>
+عنصر شرطة الافغانية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="91" source = "afp" sentence = "True">
+<Text>
+مدني أفغان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="92" source = "afp" sentence = "True">
+<Text>
+عميد جبار مساعد، مدير استخبار شرطة وطني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="93" source = "afp" sentence = "True">
+<Text>
+فتاة صغير 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="94" source = "afp" sentence = "True">
+<Text>
+طائرة ب لا طيار 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="95" source = "afp" sentence = "True">
+<Text>
+مقر حاكم كابل».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="96" source = "afp" sentence = "True">
+<Text>
+انجلينا مانج،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="97" source = "afp" sentence = "True">
+<Text>
+متشددين موالي ل حركة طالبان الافغانية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="98" source = "afp" sentence = "True">
+<Text>
+جندي من تحالف دولي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="99" source = "afp" sentence = "True">
+<Text>
+رئيسة وزير 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="100" source = "afp" sentence = "True">
+<Text>
+مسلح 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="101" source = "afp" sentence = "True">
+<Text>
+قاعدة للمتشددين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="102" source = "afp" sentence = "True">
+<Text>
+42 جندي باكستانيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="103" source = "afp" sentence = "True">
+<Text>
+أميركي ونمساوي من المتعاقدين الامنيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="104" source = "afp" sentence = "True">
+<Text>
+طائرة غربي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="105" source = "afp" sentence = "True">
+<Text>
+عسكري من قوة دولي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="106" source = "afp" sentence = "True">
+<Text>
+منطقة قبلي باكستاني محاذي ل أفغانستان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="107" source = "afp" sentence = "True">
+<Text>
+أحد عنصر.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="108" source = "afp" sentence = "True">
+<Text>
+ضابط شرطة و جندي من جيش 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="109" source = "afp" sentence = "True">
+<Text>
+المتطوعين ل جيش العراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="110" source = "afp" sentence = "True">
+<Text>
+فندق سيرينا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="111" source = "afp" sentence = "True">
+<Text>
+هجومين منفصل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="112" source = "afp" sentence = "True">
+<Text>
+71 شخص و إصابة 178 بين هو نساء وأطفال.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="113" source = "afp" sentence = "True">
+<Text>
+30 شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="114" source = "afp" sentence = "True">
+<Text>
+خمسة من 13 أثيوبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="115" source = "afp" sentence = "True">
+<Text>
+ل وكالة المخابرات المركزية الاميركية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="116" source = "afp" sentence = "True">
+<Text>
+و هو أحد قائد ميداني في «السرايا»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="117" source = "afp" sentence = "True">
+<Text>
+ل تنظيم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="118" source = "afp" sentence = "True">
+<Text>
+شخص مختبيين خلف اشجار مقبر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="119" source = "afp" sentence = "True">
+<Text>
+صاروخ إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="120" source = "afp" sentence = "True">
+<Text>
+ونيل موريس،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="121" source = "afp" sentence = "True">
+<Text>
+انتحاريين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="122" source = "afp" sentence = "True">
+<Text>
+قائد شرطة نجدة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="123" source = "afp" sentence = "True">
+<Text>
+إن هو انتمى إلى جماعة منشق عن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="124" source = "afp" sentence = "True">
+<Text>
+مدني واربعة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="125" source = "afp" sentence = "True">
+<Text>
+مواطن من قرية كفر قليل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="126" source = "afp" sentence = "True">
+<Text>
+المدنيون خمسة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="127" source = "afp" sentence = "True">
+<Text>
+باكستان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="128" source = "afp" sentence = "True">
+<Text>
+منزل في باجور 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="129" source = "afp" sentence = "True">
+<Text>
+فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="130" source = "afp" sentence = "True">
+<Text>
+جندي اثيوبيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="131" source = "afp" sentence = "True">
+<Text>
+أربعة جندي أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="132" source = "afp" sentence = "True">
+<Text>
+اثنان من مجلس أعيان الصحوة، و إصابة ثمانية آخر، بين هو ابو العبد قائد صحوة عامري».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="133" source = "afp" sentence = "True">
+<Text>
+الانتحاريين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="134" source = "afp" sentence = "True">
+<Text>
+امرأة بلجيكي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="135" source = "afp" sentence = "True">
+<Text>
+متمرد إسلامي.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="136" source = "afp" sentence = "True">
+<Text>
+أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="137" source = "afp" sentence = "True">
+<Text>
+شخص،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="138" source = "afp" sentence = "True">
+<Text>
+مقر إقامة رئيس وزير صومال نور عدي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="139" source = "afp" sentence = "True">
+<Text>
+مصور فرنسيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="140" source = "afp" sentence = "True">
+<Text>
+فرد شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="141" source = "afp" sentence = "True">
+<Text>
+سوق شعبي في حي وحدة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="142" source = "afp" sentence = "True">
+<Text>
+13 معظم هو من فرد شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="143" source = "afp" sentence = "True">
+<Text>
+مقر حكومة و سفارة أميركي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="144" source = "afp" sentence = "True">
+<Text>
+وحدة المستعربين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="145" source = "afp" sentence = "True">
+<Text>
+مصر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="146" source = "afp" sentence = "True">
+<Text>
+جنديان اميركيان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="147" source = "afp" sentence = "True">
+<Text>
+قاضي و رجل شرطة وصحافيون.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="148" source = "afp" sentence = "True">
+<Text>
+قتيل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="149" source = "afp" sentence = "True">
+<Text>
+مدني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="150" source = "afp" sentence = "True">
+<Text>
+مقاتل البيشمركة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="151" source = "afp" sentence = "True">
+<Text>
+قتيل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="152" source = "afp" sentence = "True">
+<Text>
+شمال إسبانيا،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="153" source = "afp" sentence = "True">
+<Text>
+شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="154" source = "afp" sentence = "True">
+<Text>
+عنصر من عشيرة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="155" source = "afp" sentence = "True">
+<Text>
+قاعدة للمتشددين في إقليم وزيرستان جنوبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="156" source = "afp" sentence = "True">
+<Text>
+رجل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="157" source = "afp" sentence = "True">
+<Text>
+متشددون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="158" source = "afp" sentence = "True">
+<Text>
+شاحنة مفخخة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="159" source = "afp" sentence = "True">
+<Text>
+مستشفى للكنيسة المعمدانية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="160" source = "afp" sentence = "True">
+<Text>
+رجل دين مقرب من مجلس أعلى إسلامي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="161" source = "afp" sentence = "True">
+<Text>
+17 شخص و جرح أكثر من 14 آخر،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="162" source = "afp" sentence = "True">
+<Text>
+دبابة أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="163" source = "afp" sentence = "True">
+<Text>
+عملية فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="164" source = "afp" sentence = "True">
+<Text>
+قوة روسي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="165" source = "afp" sentence = "True">
+<Text>
+اشقاء 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="166" source = "afp" sentence = "True">
+<Text>
+مسلح مشتبه 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="167" source = "afp" sentence = "True">
+<Text>
+متشدد من موالي ل حركة طالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="168" source = "afp" sentence = "True">
+<Text>
+55 سفينة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="169" source = "afp" sentence = "True">
+<Text>
+رجل شرطة.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="170" source = "afp" sentence = "True">
+<Text>
+مديرية ناحية مكر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="171" source = "afp" sentence = "True">
+<Text>
+لسفارة ولاية متحد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="172" source = "afp" sentence = "True">
+<Text>
+آخر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="173" source = "afp" sentence = "True">
+<Text>
+نشطاء «سرية قدس»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="174" source = "afp" sentence = "True">
+<Text>
+رؤوف 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="175" source = "afp" sentence = "True">
+<Text>
+جيش تركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="176" source = "afp" sentence = "True">
+<Text>
+قافلة ل قوة التحالف 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="177" source = "afp" sentence = "True">
+<Text>
+قاعدة ل شرطة في مدينة بعقوبة.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="178" source = "afp" sentence = "True">
+<Text>
+مسجد سنيا جنوب بغداد،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="179" source = "afp" sentence = "True">
+<Text>
+أربعة من متهم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="180" source = "afp" sentence = "True">
+<Text>
+قاضي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="181" source = "afp" sentence = "True">
+<Text>
+18 شخص و أصاب عشرة آخرون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="182" source = "afp" sentence = "True">
+<Text>
+ثلاثة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="183" source = "afp" sentence = "True">
+<Text>
+جيش إسباني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="184" source = "afp" sentence = "True">
+<Text>
+ضابط عراقي.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="185" source = "afp" sentence = "True">
+<Text>
+طبيب أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="186" source = "afp" sentence = "True">
+<Text>
+شخص بين هو اثنان من عنصر شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="187" source = "afp" sentence = "True">
+<Text>
+ضربة جوي أميركي».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="188" source = "afp" sentence = "True">
+<Text>
+بالصياديين فلسطيني،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="189" source = "afp" sentence = "True">
+<Text>
+دوري ل شرطة قرب جامعة الموصل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="190" source = "afp" sentence = "True">
+<Text>
+حركة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="191" source = "afp" sentence = "True">
+<Text>
+قوة أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="192" source = "afp" sentence = "True">
+<Text>
+فريق حماية تابع ل رئيس العراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="193" source = "afp" sentence = "True">
+<Text>
+اثنان من مدني ب جرح»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="194" source = "afp" sentence = "True">
+<Text>
+حرس ثوري،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="195" source = "afp" sentence = "True">
+<Text>
+ومسلحي طالبان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="196" source = "afp" sentence = "True">
+<Text>
+بسيارة مفخخة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="197" source = "afp" sentence = "True">
+<Text>
+طفلة في ثالث عشر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="198" source = "afp" sentence = "True">
+<Text>
+ل قوة الاميركية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="199" source = "afp" sentence = "True">
+<Text>
+جيش إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="200" source = "afp" sentence = "True">
+<Text>
+42 مجندا في جيش 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="201" source = "afp" sentence = "True">
+<Text>
+ل قوة حرس الرئاسة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="202" source = "afp" sentence = "True">
+<Text>
+150 متمرد من طالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="203" source = "afp" sentence = "True">
+<Text>
+سلاح جو إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="204" source = "afp" sentence = "True">
+<Text>
+80 شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="205" source = "afp" sentence = "True">
+<Text>
+عميد فرنسوا الحاج، مدير عملية في قيادة جيش لبناني،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="206" source = "afp" sentence = "True">
+<Text>
+جيش أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="207" source = "afp" sentence = "True">
+<Text>
+تلاميذ مولانا مولانا عبد العزيز 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="208" source = "afp" sentence = "True">
+<Text>
+مدرسة زراعي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="209" source = "afp" sentence = "True">
+<Text>
+جندي عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="210" source = "afp" sentence = "True">
+<Text>
+مسجد سنيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="211" source = "afp" sentence = "True">
+<Text>
+4 شخص و إصابة 37 آخر بجروح،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="212" source = "afp" sentence = "True">
+<Text>
+مقاومة شعبي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="213" source = "afp" sentence = "True">
+<Text>
+مفجرون انتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="214" source = "afp" sentence = "True">
+<Text>
+الاقلية اليزيدية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="215" source = "afp" sentence = "True">
+<Text>
+«مقاومة وطني إسلامي في عراق سرية الفرقان»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="216" source = "afp" sentence = "True">
+<Text>
+متطوع مسيحي من كوريا جنوبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="217" source = "afp" sentence = "True">
+<Text>
+بيل مهغراة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="218" source = "afp" sentence = "True">
+<Text>
+أرهابي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="219" source = "afp" sentence = "True">
+<Text>
+جندي عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="220" source = "afp" sentence = "True">
+<Text>
+إسرائيل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="221" source = "afp" sentence = "True">
+<Text>
+غرفة تنسيق،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="222" source = "afp" sentence = "True">
+<Text>
+ل مواطن الفلسطينيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="223" source = "afp" sentence = "True">
+<Text>
+مجموعة اعتقد أن هو سياح غربيون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="224" source = "afp" sentence = "True">
+<Text>
+حلف شمال أطلسي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="225" source = "afp" sentence = "True">
+<Text>
+حاجزا مشترك في بلدة الضلوعية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="226" source = "afp" sentence = "True">
+<Text>
+قاعدة ل شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="227" source = "afp" sentence = "True">
+<Text>
+سياسي بين هو زعيمة معارضة بي نظير بوتو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="228" source = "afp" sentence = "True">
+<Text>
+قوة إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="229" source = "afp" sentence = "True">
+<Text>
+طفلة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="230" source = "afp" sentence = "True">
+<Text>
+عسكري ماليين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="231" source = "afp" sentence = "True">
+<Text>
+كتيبة عز الدين القسام 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="232" source = "afp" sentence = "True">
+<Text>
+ل حرس الثوري.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="233" source = "afp" sentence = "True">
+<Text>
+بسيارة ملغومة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="234" source = "afp" sentence = "True">
+<Text>
+انتحاريان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="235" source = "afp" sentence = "True">
+<Text>
+جندي عراقي ومدني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="236" source = "afp" sentence = "True">
+<Text>
+دوري ل قوة الاميركية جنوب بغداد.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="237" source = "afp" sentence = "True">
+<Text>
+17 شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="238" source = "afp" sentence = "True">
+<Text>
+موكب رئيسة وزير باكستاني سابق بي نظير بوتو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="239" source = "afp" sentence = "True">
+<Text>
+قناة أمريكي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="240" source = "afp" sentence = "True">
+<Text>
+أمريكي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="241" source = "afp" sentence = "True">
+<Text>
+من في هو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="242" source = "afp" sentence = "True">
+<Text>
+طائرة إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="243" source = "afp" sentence = "True">
+<Text>
+امرأة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="244" source = "afp" sentence = "True">
+<Text>
+جندي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="245" source = "afp" sentence = "True">
+<Text>
+أحد قيادة بارز في تنظيم «قاعدة»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="246" source = "afp" sentence = "True">
+<Text>
+ضربة جوي أميركي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="247" source = "afp" sentence = "True">
+<Text>
+الفداييين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="248" source = "afp" sentence = "True">
+<Text>
+3 قطارات للمترو لمترو و إحدى حافل.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="249" source = "afp" sentence = "True">
+<Text>
+رجل دين شيعي حجة إسلام هشام سيموري،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="250" source = "afp" sentence = "True">
+<Text>
+وحدة إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="251" source = "afp" sentence = "True">
+<Text>
+دوري ل شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="252" source = "afp" sentence = "True">
+<Text>
+استشهادئ 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="253" source = "afp" sentence = "True">
+<Text>
+مصلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="254" source = "afp" sentence = "True">
+<Text>
+مواطن سوريا»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="255" source = "afp" sentence = "True">
+<Text>
+مدينة عسقلان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="256" source = "afp" sentence = "True">
+<Text>
+مصلي كان بين هو عديد من عسكري والموظفين حكومي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="257" source = "afp" sentence = "True">
+<Text>
+مجندا في جيش 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="258" source = "afp" sentence = "True">
+<Text>
+مجموعة من عنصر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="259" source = "afp" sentence = "True">
+<Text>
+وكيل وزارة نفط عراقي عبد الجبار الوكاع و عدد من الموظفين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="260" source = "afp" sentence = "True">
+<Text>
+رئيس تيمور شرقي خوسيه راموس 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="261" source = "afp" sentence = "True">
+<Text>
+متمرد التاميل،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="262" source = "afp" sentence = "True">
+<Text>
+مسلح فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="263" source = "afp" sentence = "True">
+<Text>
+فريق رياض نوري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="264" source = "afp" sentence = "True">
+<Text>
+خمسة من رجل شرطة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="265" source = "afp" sentence = "True">
+<Text>
+كتيبة أقصى 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="266" source = "afp" sentence = "True">
+<Text>
+عميد كلية إدارة و اقتصاد ب جامعة بغداد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="267" source = "afp" sentence = "True">
+<Text>
+42 شخص و إصابة عشرة آخر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="268" source = "afp" sentence = "True">
+<Text>
+مسلم يعقوب البطاط 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="269" source = "afp" sentence = "True">
+<Text>
+عنصر «كتيبة قسام»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="270" source = "afp" sentence = "True">
+<Text>
+قيادي في حركة حماس هو وكيل وزارة نقل فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="271" source = "afp" sentence = "True">
+<Text>
+سيارة تابع ل جيش 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="272" source = "afp" sentence = "True">
+<Text>
+300 مواطن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="273" source = "afp" sentence = "True">
+<Text>
+عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="274" source = "afp" sentence = "True">
+<Text>
+سامي المظفر،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="275" source = "afp" sentence = "True">
+<Text>
+طيران إسرائيلي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="276" source = "afp" sentence = "True">
+<Text>
+جندي باكستانيين،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="277" source = "afp" sentence = "True">
+<Text>
+أحد عنصر كتيبة القسام،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="278" source = "afp" sentence = "True">
+<Text>
+انفجار 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="279" source = "afp" sentence = "True">
+<Text>
+مقر رئيسي للاستخبارات 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="280" source = "afp" sentence = "True">
+<Text>
+فرد أمن وطني و خطف آخر واختطاف أشرف دحلان ابن شقيق محمد دحلان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="281" source = "afp" sentence = "True">
+<Text>
+جيش 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="282" source = "afp" sentence = "True">
+<Text>
+شاحنة ملغومة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="283" source = "afp" sentence = "True">
+<Text>
+غالبية شيعي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="284" source = "afp" sentence = "True">
+<Text>
+ل جيش العراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="285" source = "afp" sentence = "True">
+<Text>
+ضربة جوي أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="286" source = "afp" sentence = "True">
+<Text>
+دوري ل جيش العراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="287" source = "afp" sentence = "True">
+<Text>
+نائب وليد عيدو،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="288" source = "afp" sentence = "True">
+<Text>
+عنصر حرس ثوري.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="289" source = "afp" sentence = "True">
+<Text>
+أربعة اوروبيين عمل في مجال مساعدة وطيارين كينيين اثنان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="290" source = "afp" sentence = "True">
+<Text>
+مديري عموم عراق 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="291" source = "afp" sentence = "True">
+<Text>
+مقاومة وطني إسلامي في عراق سرية الفرقان»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="292" source = "afp" sentence = "True">
+<Text>
+ل شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="293" source = "afp" sentence = "True">
+<Text>
+دوري ل جيش الاميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="294" source = "afp" sentence = "True">
+<Text>
+مسلحون مقنعون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="295" source = "afp" sentence = "True">
+<Text>
+مهاجم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="296" source = "afp" sentence = "True">
+<Text>
+موقع فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="297" source = "afp" sentence = "True">
+<Text>
+شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="298" source = "afp" sentence = "True">
+<Text>
+نجحوا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="299" source = "afp" sentence = "True">
+<Text>
+جيش أمريكي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="300" source = "afp" sentence = "True">
+<Text>
+محمد صديق 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="301" source = "afp" sentence = "True">
+<Text>
+مقاتل (شب) 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="302" source = "afp" sentence = "True">
+<Text>
+شخص اشتبه في أنتمايهم لجماعات مسلح،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="303" source = "afp" sentence = "True">
+<Text>
+عنصر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="304" source = "afp" sentence = "True">
+<Text>
+قاعدة»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="305" source = "afp" sentence = "True">
+<Text>
+وزير دفاع إلياس 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="306" source = "afp" sentence = "True">
+<Text>
+71 شخص و إصابة أكثر من 150 آخر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="307" source = "afp" sentence = "True">
+<Text>
+ثلاثة أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="308" source = "afp" sentence = "True">
+<Text>
+النزلاء في 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="309" source = "afp" sentence = "True">
+<Text>
+سور حد الحديدي بين رفح فلسطيني ورفح مصري،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="310" source = "afp" sentence = "True">
+<Text>
+بلدة خان بني سعد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="311" source = "afp" sentence = "True">
+<Text>
+3 مسلح 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="312" source = "afp" sentence = "True">
+<Text>
+قطاع غزة و ضفة غربي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="313" source = "afp" sentence = "True">
+<Text>
+اوروبيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="314" source = "afp" sentence = "True">
+<Text>
+عشر بين هو ثلاثة من رجل شرطة.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="315" source = "afp" sentence = "True">
+<Text>
+جندي افغاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="316" source = "afp" sentence = "True">
+<Text>
+مدينة بيدوة غرب صومال،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="317" source = "afp" sentence = "True">
+<Text>
+35 قتيل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="318" source = "afp" sentence = "True">
+<Text>
+أميركية».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="319" source = "afp" sentence = "True">
+<Text>
+أحد فرد البيشمركة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="320" source = "afp" sentence = "True">
+<Text>
+ثكنة الغلاوية في شمال 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="321" source = "afp" sentence = "True">
+<Text>
+وحدة إسرائيلي خاص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="322" source = "afp" sentence = "True">
+<Text>
+وزيرة دولة ب وزارة طاقة سوداني،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="323" source = "afp" sentence = "True">
+<Text>
+ل جيش الاحتلال 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="324" source = "afp" sentence = "True">
+<Text>
+عنصر تنظيم،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="325" source = "afp" sentence = "True">
+<Text>
+«مسلح مجهول 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="326" source = "afp" sentence = "True">
+<Text>
+سوق في منطقة الصدرية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="327" source = "afp" sentence = "True">
+<Text>
+شرطة إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="328" source = "afp" sentence = "True">
+<Text>
+عنصر قوة تنفيذي تابع ل وزارة الداخلية في الحكومة الفلسطينية المقالة ب رئاسة اسماعيل هنية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="329" source = "afp" sentence = "True">
+<Text>
+أميركية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="330" source = "afp" sentence = "True">
+<Text>
+جندي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="331" source = "afp" sentence = "True">
+<Text>
+عربة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="332" source = "afp" sentence = "True">
+<Text>
+فتح 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="333" source = "afp" sentence = "True">
+<Text>
+رهينة».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="334" source = "afp" sentence = "True">
+<Text>
+دورية مشترك ل قوة العراقية والاميركية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="335" source = "afp" sentence = "True">
+<Text>
+مستوطني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="336" source = "afp" sentence = "True">
+<Text>
+مقاتل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="337" source = "afp" sentence = "True">
+<Text>
+حاكم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="338" source = "afp" sentence = "True">
+<Text>
+عشرة قتيل و جريح،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="339" source = "afp" sentence = "True">
+<Text>
+النزلاء 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="340" source = "afp" sentence = "True">
+<Text>
+قافلة عسكري ضم جندي بحلف الناتو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="341" source = "afp" sentence = "True">
+<Text>
+سبعة جندي آخر في منطقة قبلي باكستاني مضطربة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="342" source = "afp" sentence = "True">
+<Text>
+ثلاثة جندي أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="343" source = "afp" sentence = "True">
+<Text>
+شمال إسرائيل،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="344" source = "afp" sentence = "True">
+<Text>
+جيش مالي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="345" source = "afp" sentence = "True">
+<Text>
+قوة أمن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="346" source = "afp" sentence = "True">
+<Text>
+مقاتل (شب)
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="347" source = "afp" sentence = "True">
+<Text>
+اجتماع لزعماء من قبائل البشتون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="348" source = "afp" sentence = "True">
+<Text>
+مدني.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="349" source = "afp" sentence = "True">
+<Text>
+فندق ماريوت 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="350" source = "afp" sentence = "True">
+<Text>
+مهدي حنبلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="351" source = "afp" sentence = "True">
+<Text>
+منطقة قبلي باكستاني.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="352" source = "afp" sentence = "True">
+<Text>
+ستة مدني و إصابة نحو خمسون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="353" source = "afp" sentence = "True">
+<Text>
+سيدة معني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="354" source = "afp" sentence = "True">
+<Text>
+دوري ل شرطة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="355" source = "afp" sentence = "True">
+<Text>
+رأس جميل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="356" source = "afp" sentence = "True">
+<Text>
+خمسة من جنودنا جنودنا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="357" source = "afp" sentence = "True">
+<Text>
+أحد جسر غربي مدين موصل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="358" source = "afp" sentence = "True">
+<Text>
+عمر ديري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="359" source = "afp" sentence = "True">
+<Text>
+ثلاثون طالب من مسجد أحمر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="360" source = "afp" sentence = "True">
+<Text>
+شخصان و أصاب خمسة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="361" source = "afp" sentence = "True">
+<Text>
+نقطة تفتيش ل شرطة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="362" source = "afp" sentence = "True">
+<Text>
+منطقة أخضر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="363" source = "afp" sentence = "True">
+<Text>
+هجوم انتحاري مزدوج بحزامين ناسفين».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="364" source = "afp" sentence = "True">
+<Text>
+ثكنة الغلاوية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="365" source = "afp" sentence = "True">
+<Text>
+اورال»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="366" source = "afp" sentence = "True">
+<Text>
+متطوع في جيش عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="367" source = "afp" sentence = "True">
+<Text>
+مصنع عسكري ل سلاح شمال باكستان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="368" source = "afp" sentence = "True">
+<Text>
+ب أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="369" source = "afp" sentence = "True">
+<Text>
+ل قوة الصحوة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="370" source = "afp" sentence = "True">
+<Text>
+قتيل و جريح،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="371" source = "afp" sentence = "True">
+<Text>
+وكيل وزارة نقل فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="372" source = "afp" sentence = "True">
+<Text>
+القنصل أفغاني عام 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="373" source = "afp" sentence = "True">
+<Text>
+فرد البيشمركة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="374" source = "afp" sentence = "True">
+<Text>
+القنصل أفغاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="375" source = "afp" sentence = "True">
+<Text>
+قنبلة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="376" source = "afp" sentence = "True">
+<Text>
+12 جندي على أقل و أصاب 7 وفقدنا 50 من الجنود،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="377" source = "afp" sentence = "True">
+<Text>
+جندي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="378" source = "afp" sentence = "True">
+<Text>
+رجل دين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="379" source = "afp" sentence = "True">
+<Text>
+منطقة باجور ب شمال غربي البلاد على حد مع أفغانستان.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="380" source = "afp" sentence = "True">
+<Text>
+عبد الحنان موظف في لجنة انتخابي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="381" source = "afp" sentence = "True">
+<Text>
+واحد من هو،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="382" source = "afp" sentence = "True">
+<Text>
+قوة أمن باكستاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="383" source = "afp" sentence = "True">
+<Text>
+تنظيم «قاعدة»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="384" source = "afp" sentence = "True">
+<Text>
+جندي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="385" source = "afp" sentence = "True">
+<Text>
+دورية بريطاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="386" source = "afp" sentence = "True">
+<Text>
+طالبان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="387" source = "afp" sentence = "True">
+<Text>
+طريق رئيسي الذي ربط مدينة ب منطقة مجاور ل هو.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="388" source = "afp" sentence = "True">
+<Text>
+وزير دفاع يأس مر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="389" source = "afp" sentence = "True">
+<Text>
+جندي هوو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="390" source = "afp" sentence = "True">
+<Text>
+ساكن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="391" source = "afp" sentence = "True">
+<Text>
+13 عراقي و أصاب 22،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="392" source = "afp" sentence = "True">
+<Text>
+وصحافيون.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="393" source = "afp" sentence = "True">
+<Text>
+مديري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="394" source = "afp" sentence = "True">
+<Text>
+مركز ل تدريب 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="395" source = "afp" sentence = "True">
+<Text>
+ثلاثة طبيب أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="396" source = "afp" sentence = "True">
+<Text>
+موظف هو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="397" source = "afp" sentence = "True">
+<Text>
+مهاجم نفذ هجوم انتحاريا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="398" source = "afp" sentence = "True">
+<Text>
+إذاستا جامعيا عمل في جامعة موصل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="399" source = "afp" sentence = "True">
+<Text>
+جندي أفغان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="400" source = "afp" sentence = "True">
+<Text>
+مجموعة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="401" source = "afp" sentence = "True">
+<Text>
+فلسطيني في العشرينات من عمر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="402" source = "afp" sentence = "True">
+<Text>
+ل قوة العراقية والاميركية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="403" source = "afp" sentence = "True">
+<Text>
+بولس فرج رحو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="404" source = "afp" sentence = "True">
+<Text>
+7 فلسطيني،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="405" source = "afp" sentence = "True">
+<Text>
+مزرعة إبراهيم صالح،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="406" source = "afp" sentence = "True">
+<Text>
+قوة أفريقي.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="407" source = "afp" sentence = "True">
+<Text>
+للمقاتلين أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="408" source = "afp" sentence = "True">
+<Text>
+13 شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="409" source = "afp" sentence = "True">
+<Text>
+امرأة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="410" source = "afp" sentence = "True">
+<Text>
+طالبان.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="411" source = "afp" sentence = "True">
+<Text>
+مهاجم انتحاريا من حركة طالبان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="412" source = "afp" sentence = "True">
+<Text>
+ساكن غزة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="413" source = "afp" sentence = "True">
+<Text>
+تفتيش تابع ل شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="414" source = "afp" sentence = "True">
+<Text>
+تفجير الانتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="415" source = "afp" sentence = "True">
+<Text>
+دورية عسكري ألماني ب قرب من مطار كابل،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="416" source = "afp" sentence = "True">
+<Text>
+انتحاري ارتدى حزاما ناسفا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="417" source = "afp" sentence = "True">
+<Text>
+عميد جبار مساعد، 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="418" source = "afp" sentence = "True">
+<Text>
+للصحوة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="419" source = "afp" sentence = "True">
+<Text>
+امجد وهبة، مدير إقليمي ل«شركة جزائري مصري ل تجارة والتصنيع»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="420" source = "afp" sentence = "True">
+<Text>
+موكب لسفارة ولاية متحد في كابل،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="421" source = "afp" sentence = "True">
+<Text>
+مقر لمغاوير شرطة في مدينة سامراء 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="422" source = "afp" sentence = "True">
+<Text>
+والجند إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="423" source = "afp" sentence = "True">
+<Text>
+خمسة مدني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="424" source = "afp" sentence = "True">
+<Text>
+فرقة مظلية من قوة مكافحة إرهاب 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="425" source = "afp" sentence = "True">
+<Text>
+سبعة شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="426" source = "afp" sentence = "True">
+<Text>
+قوة أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="427" source = "afp" sentence = "True">
+<Text>
+فلسطيني،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="428" source = "afp" sentence = "True">
+<Text>
+حافلة مدني،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="429" source = "afp" sentence = "True">
+<Text>
+متمرد من طالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="430" source = "afp" sentence = "True">
+<Text>
+ثمانية قتيل بين هو ثلاثة أجنبي و وقع في 14 يناير (كانون ثاني) في فندق سيرينا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="431" source = "afp" sentence = "True">
+<Text>
+حاكم منطقة ب شرق أفغانستان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="432" source = "afp" sentence = "True">
+<Text>
+رهينة من أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="433" source = "afp" sentence = "True">
+<Text>
+مقاتل سيطر على هو المتشددون موالي لطالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="434" source = "afp" sentence = "True">
+<Text>
+سجن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="435" source = "afp" sentence = "True">
+<Text>
+قوة أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="436" source = "afp" sentence = "True">
+<Text>
+مجموعة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="437" source = "afp" sentence = "True">
+<Text>
+مقر مجلس للصحوة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="438" source = "afp" sentence = "True">
+<Text>
+ل جيش 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="439" source = "afp" sentence = "True">
+<Text>
+طائرة هليكوبتر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="440" source = "afp" sentence = "True">
+<Text>
+اسم هوو تيسير دويات،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="441" source = "afp" sentence = "True">
+<Text>
+وحدة جيش لبناني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="442" source = "afp" sentence = "True">
+<Text>
+قوة مناوي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="443" source = "afp" sentence = "True">
+<Text>
+دبابة إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="444" source = "afp" sentence = "True">
+<Text>
+خمسة بريطانيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="445" source = "afp" sentence = "True">
+<Text>
+أجمع ل شيعة التركمان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="446" source = "afp" sentence = "True">
+<Text>
+رواالبندي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="447" source = "afp" sentence = "True">
+<Text>
+قوة تحالف 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="448" source = "afp" sentence = "True">
+<Text>
+أربعة شخص، بين هو عنصران من شرطة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="449" source = "afp" sentence = "True">
+<Text>
+قوة أمن باكستاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="450" source = "afp" sentence = "True">
+<Text>
+قوة الصحوة.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="451" source = "afp" sentence = "True">
+<Text>
+متمرد كردي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="452" source = "afp" sentence = "True">
+<Text>
+15 جندي تركيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="453" source = "afp" sentence = "True">
+<Text>
+مستقبل»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="454" source = "afp" sentence = "True">
+<Text>
+عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="455" source = "afp" sentence = "True">
+<Text>
+عنصر طالبان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="456" source = "afp" sentence = "True">
+<Text>
+مهاجم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="457" source = "afp" sentence = "True">
+<Text>
+مستشفى ل طفل،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="458" source = "afp" sentence = "True">
+<Text>
+سياح غربيون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="459" source = "afp" sentence = "True">
+<Text>
+مظاهرة ت ندد بالغارات إسرائيلي على قطاع غزة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="460" source = "afp" sentence = "True">
+<Text>
+جبهة شعبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="461" source = "afp" sentence = "True">
+<Text>
+متهم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="462" source = "afp" sentence = "True">
+<Text>
+قتيل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="463" source = "afp" sentence = "True">
+<Text>
+مركز ل تجنيد فرد للشرطة في منطقة دير اسماعيل خان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="464" source = "afp" sentence = "True">
+<Text>
+مكتب شركة أميركي ل أمن،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="465" source = "afp" sentence = "True">
+<Text>
+سيارة.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="466" source = "afp" sentence = "True">
+<Text>
+مسلح 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="467" source = "afp" sentence = "True">
+<Text>
+طايرتي تجسس جورجيتين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="468" source = "afp" sentence = "True">
+<Text>
+مسلحون مطران الكلدان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="469" source = "afp" sentence = "True">
+<Text>
+الانتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="470" source = "afp" sentence = "True">
+<Text>
+أ إرهأبي.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="471" source = "afp" sentence = "True">
+<Text>
+نائب رئيس بلدي مهدي حنبلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="472" source = "afp" sentence = "True">
+<Text>
+معبر كرم ابو سالم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="473" source = "afp" sentence = "True">
+<Text>
+مقر حزب ثأر اللٰه،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="474" source = "afp" sentence = "True">
+<Text>
+ضابط في شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="475" source = "afp" sentence = "True">
+<Text>
+جندي هوو،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="476" source = "afp" sentence = "True">
+<Text>
+عنصر قوة تنفيذي تابع ل وزارة الداخلية في الحكومة الفلسطينية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="477" source = "afp" sentence = "True">
+<Text>
+200 مسلح إسلامي و نحو 50 جندي باكستانيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="478" source = "afp" sentence = "True">
+<Text>
+صاروخ كاتيوشا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="479" source = "afp" sentence = "True">
+<Text>
+مطار اسلام آباد دولي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="480" source = "afp" sentence = "True">
+<Text>
+اغتيال 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="481" source = "afp" sentence = "True">
+<Text>
+رئيس تنظيم عقيد رياض السامرايي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="482" source = "afp" sentence = "True">
+<Text>
+68 رهينة من أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="483" source = "afp" sentence = "True">
+<Text>
+رجل شرطة عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="484" source = "afp" sentence = "True">
+<Text>
+عنصر شرطة الافغانية، ومهندس هندي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="485" source = "afp" sentence = "True">
+<Text>
+منسق هوو عام دكتور عبد الوهووب المسيري و زوجة وعدد آخر من عضو حركة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="486" source = "afp" sentence = "True">
+<Text>
+تنظيم قاعدة في بلد مغرب إسلامي».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="487" source = "afp" sentence = "True">
+<Text>
+نفس هو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="488" source = "afp" sentence = "True">
+<Text>
+مدرسة للبنات 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="489" source = "afp" sentence = "True">
+<Text>
+قوة الدرك 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="490" source = "afp" sentence = "True">
+<Text>
+عنصر من «ألوية ناصر صلاح الدين»،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="491" source = "afp" sentence = "True">
+<Text>
+أثيوبيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="492" source = "afp" sentence = "True">
+<Text>
+نشطاء 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="493" source = "afp" sentence = "True">
+<Text>
+ستة شخص و إصابة آخر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="494" source = "afp" sentence = "True">
+<Text>
+أحد فرد حماية هوو،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="495" source = "afp" sentence = "True">
+<Text>
+سلاح مدفعية.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="496" source = "afp" sentence = "True">
+<Text>
+رئيس حزب حليف للرئيس الباكستاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="497" source = "afp" sentence = "True">
+<Text>
+جاسم ذهبي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="498" source = "afp" sentence = "True">
+<Text>
+تحالف دولي ب قيادة ولاية متحد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="499" source = "afp" sentence = "True">
+<Text>
+شخص.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="500" source = "afp" sentence = "True">
+<Text>
+مواطن فلسطيني في مدينة قدس شرقي محتل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="501" source = "afp" sentence = "True">
+<Text>
+قافلة ل قوة التحالف ب قيادة أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="502" source = "afp" sentence = "True">
+<Text>
+بحلف الناتو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="503" source = "afp" sentence = "True">
+<Text>
+شيعي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="504" source = "afp" sentence = "True">
+<Text>
+عامل أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="505" source = "afp" sentence = "True">
+<Text>
+حافلة مملوك ل حرس الثوري.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="506" source = "afp" sentence = "True">
+<Text>
+«سي.أي.أيه»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="507" source = "afp" sentence = "True">
+<Text>
+9 عراقي في عملية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="508" source = "afp" sentence = "True">
+<Text>
+مسلح 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="509" source = "afp" sentence = "True">
+<Text>
+موقع،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="510" source = "afp" sentence = "True">
+<Text>
+معتقل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="511" source = "afp" sentence = "True">
+<Text>
+اسيرا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="512" source = "afp" sentence = "True">
+<Text>
+ثلاثة شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="513" source = "afp" sentence = "True">
+<Text>
+مسلم يعقوب البطاط أمام جامع العروة الوثقى،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="514" source = "afp" sentence = "True">
+<Text>
+قوة كردي)
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="515" source = "afp" sentence = "True">
+<Text>
+عبد الحنان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="516" source = "afp" sentence = "True">
+<Text>
+شخص،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="517" source = "afp" sentence = "True">
+<Text>
+وطيارين كينيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="518" source = "afp" sentence = "True">
+<Text>
+متمرد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="519" source = "afp" sentence = "True">
+<Text>
+رجل أمن مصري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="520" source = "afp" sentence = "True">
+<Text>
+نقيب الصيادلة والصيادلة في مدينة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="521" source = "afp" sentence = "True">
+<Text>
+اجتماع ل تنظيم «القاعدة»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="522" source = "afp" sentence = "True">
+<Text>
+جندي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="523" source = "afp" sentence = "True">
+<Text>
+مجموعة من عنصر «كتيبة قسام»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="524" source = "afp" sentence = "True">
+<Text>
+مظاهرة كردي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="525" source = "afp" sentence = "True">
+<Text>
+طائرة استطلاع ب دون طيار 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="526" source = "afp" sentence = "True">
+<Text>
+جندي أميركي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="527" source = "afp" sentence = "True">
+<Text>
+حركة طالبان.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="528" source = "afp" sentence = "True">
+<Text>
+حزب ثأر اللٰه،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="529" source = "afp" sentence = "True">
+<Text>
+هجومان انتحاريان وسيارة ملغومة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="530" source = "afp" sentence = "True">
+<Text>
+12 امرأة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="531" source = "afp" sentence = "True">
+<Text>
+جنديان اميركيان و أصاب تسعة عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="532" source = "afp" sentence = "True">
+<Text>
+سوق خضراوات مكتظ بنساء يتسوقن في منطقة الصدرية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="533" source = "afp" sentence = "True">
+<Text>
+جيش المهدي»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="534" source = "afp" sentence = "True">
+<Text>
+عشيرة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="535" source = "afp" sentence = "True">
+<Text>
+شخص و أصاب 13 آخرون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="536" source = "afp" sentence = "True">
+<Text>
+تل أبيب 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="537" source = "afp" sentence = "True">
+<Text>
+جنودنا جنودنا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="538" source = "afp" sentence = "True">
+<Text>
+قائد أول مجلس للصحوة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="539" source = "afp" sentence = "True">
+<Text>
+مكتب حزب 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="540" source = "afp" sentence = "True">
+<Text>
+نقيب الصيادلة والصيادلة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="541" source = "afp" sentence = "True">
+<Text>
+مسلح،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="542" source = "afp" sentence = "True">
+<Text>
+جندي فرنسيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="543" source = "afp" sentence = "True">
+<Text>
+جندي».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="544" source = "afp" sentence = "True">
+<Text>
+انتحاريا قاد سيارة ملغومة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="545" source = "afp" sentence = "True">
+<Text>
+أحد عنصر شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="546" source = "afp" sentence = "True">
+<Text>
+طائرة أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="547" source = "afp" sentence = "True">
+<Text>
+دبابة روسي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="548" source = "afp" sentence = "True">
+<Text>
+عيادة ل بالوخز ب إبرة في اسلام اباد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="549" source = "afp" sentence = "True">
+<Text>
+مدينة كركوك 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="550" source = "afp" sentence = "True">
+<Text>
+مدرسة للبنات ب قرب 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="551" source = "afp" sentence = "True">
+<Text>
+عميد جبار مساعد، مدير استخبار شرطة وطني في بصرة».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="552" source = "afp" sentence = "True">
+<Text>
+14 شخص،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="553" source = "afp" sentence = "True">
+<Text>
+موكب رسمي لشخصية سياسي في منطقة الكرادة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="554" source = "afp" sentence = "True">
+<Text>
+مفجر انتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="555" source = "afp" sentence = "True">
+<Text>
+47 إرهابي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="556" source = "afp" sentence = "True">
+<Text>
+مروحي قتالي، ب إضافة إلى سلاح مدفعية.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="557" source = "afp" sentence = "True">
+<Text>
+مجمع استخدم هو متشددون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="558" source = "afp" sentence = "True">
+<Text>
+تسعة جندي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="559" source = "afp" sentence = "True">
+<Text>
+إن دبابة إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="560" source = "afp" sentence = "True">
+<Text>
+حركة طالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="561" source = "afp" sentence = "True">
+<Text>
+مكان قريب من إطلاق قذيفة.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="562" source = "afp" sentence = "True">
+<Text>
+ساكن و دمر مبنى في مدينة غوري.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="563" source = "afp" sentence = "True">
+<Text>
+انتحاري يدعى محمد صديق 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="564" source = "afp" sentence = "True">
+<Text>
+من هو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="565" source = "afp" sentence = "True">
+<Text>
+جاسم ذهوبي، عميد كلية إدارة و اقتصاد ب جامعة بغداد وزوجتهو وابنهوما 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="566" source = "afp" sentence = "True">
+<Text>
+عضو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="567" source = "afp" sentence = "True">
+<Text>
+شرطة اسلام آباد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="568" source = "afp" sentence = "True">
+<Text>
+مدني افغانيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="569" source = "afp" sentence = "True">
+<Text>
+مجمع 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="570" source = "afp" sentence = "True">
+<Text>
+شركة أمني أميركي في مدينة قندهار 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="571" source = "afp" sentence = "True">
+<Text>
+دورية عسكري ألماني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="572" source = "afp" sentence = "True">
+<Text>
+ل جيش الأميركي».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="573" source = "afp" sentence = "True">
+<Text>
+على مقر رئيسي للاستخبارات 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="574" source = "afp" sentence = "True">
+<Text>
+متمرد المفترضين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="575" source = "afp" sentence = "True">
+<Text>
+مسلحون يرتدون بزات قوة أمن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="576" source = "afp" sentence = "True">
+<Text>
+دبابة إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="577" source = "afp" sentence = "True">
+<Text>
+مسلح وامراتين وطفلا.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="578" source = "afp" sentence = "True">
+<Text>
+أميركي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="579" source = "afp" sentence = "True">
+<Text>
+تنظيم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="580" source = "afp" sentence = "True">
+<Text>
+أردن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="581" source = "afp" sentence = "True">
+<Text>
+عضو في تنظيم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="582" source = "afp" sentence = "True">
+<Text>
+انصار زعيمة معارضة راحل بي نظير بوتو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="583" source = "afp" sentence = "True">
+<Text>
+23 متطوع مسيحي من كوريا جنوبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="584" source = "afp" sentence = "True">
+<Text>
+متمرد مسلح»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="585" source = "afp" sentence = "True">
+<Text>
+أربعة مدني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="586" source = "afp" sentence = "True">
+<Text>
+هليكوبتر «اباتشي» من طراز «إيه أتش 64»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="587" source = "afp" sentence = "True">
+<Text>
+تيسير دويات،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="588" source = "afp" sentence = "True">
+<Text>
+سائح إسبانيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="589" source = "afp" sentence = "True">
+<Text>
+شاب فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="590" source = "afp" sentence = "True">
+<Text>
+دوري ل جيش الأميركي».
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="591" source = "afp" sentence = "True">
+<Text>
+مجلس للصحوة في ضاحية منصوري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="592" source = "afp" sentence = "True">
+<Text>
+النزلاء في هٰذا سجن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="593" source = "afp" sentence = "True">
+<Text>
+مخابي متمرد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="594" source = "afp" sentence = "True">
+<Text>
+ل قوة الاسرائيلية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="595" source = "afp" sentence = "True">
+<Text>
+متمرد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="596" source = "afp" sentence = "True">
+<Text>
+رجل اشتبهو في أن هوو أراد تنفيذ عملية انتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="597" source = "afp" sentence = "True">
+<Text>
+مركز ل تجنيد فرد للشرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="598" source = "afp" sentence = "True">
+<Text>
+قايدا ل حركة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="599" source = "afp" sentence = "True">
+<Text>
+رجل شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="600" source = "afp" sentence = "True">
+<Text>
+رئيسة وزير سابق، بي نظير بوتو،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="601" source = "afp" sentence = "True">
+<Text>
+بلدة بلدروز بمحافظة ديالى،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="602" source = "afp" sentence = "True">
+<Text>
+إسرائيل،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="603" source = "afp" sentence = "True">
+<Text>
+نقطة للتفتيش في منطقة الحارثية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="604" source = "afp" sentence = "True">
+<Text>
+دورية كان قام مهبمة أمني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="605" source = "afp" sentence = "True">
+<Text>
+وزيرة دولة ب وزارة طاقة سوداني، انجلينا مانج،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="606" source = "afp" sentence = "True">
+<Text>
+32 متمرد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="607" source = "afp" sentence = "True">
+<Text>
+مطار،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="608" source = "afp" sentence = "True">
+<Text>
+جبهة شعبي ل تحرير فلسطين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="609" source = "afp" sentence = "True">
+<Text>
+بالقافلة بقافلة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="610" source = "afp" sentence = "True">
+<Text>
+حفل زفاف ب الفلوجة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="611" source = "afp" sentence = "True">
+<Text>
+سيارة مستاجرة حمل لوحة زرقاء 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="612" source = "afp" sentence = "True">
+<Text>
+جندي أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="613" source = "afp" sentence = "True">
+<Text>
+محتجز،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="614" source = "afp" sentence = "True">
+<Text>
+قايدا ل حركة في شمال غزة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="615" source = "afp" sentence = "True">
+<Text>
+سفير بولندا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="616" source = "afp" sentence = "True">
+<Text>
+طائرة ب دون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="617" source = "afp" sentence = "True">
+<Text>
+مهاجم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="618" source = "afp" sentence = "True">
+<Text>
+عسكري والموظفين حكومي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="619" source = "afp" sentence = "True">
+<Text>
+من حركة طالبان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="620" source = "afp" sentence = "True">
+<Text>
+عصاعص هوو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="621" source = "afp" sentence = "True">
+<Text>
+طالب من مسجد أحمر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="622" source = "afp" sentence = "True">
+<Text>
+مجهولون 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="623" source = "afp" sentence = "True">
+<Text>
+مسلحون يرتدون زي شرطة عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="624" source = "afp" sentence = "True">
+<Text>
+مهندسين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="625" source = "afp" sentence = "True">
+<Text>
+رئيس حزب 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="626" source = "afp" sentence = "True">
+<Text>
+بلدة محيط ب قطاع غزة.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="627" source = "afp" sentence = "True">
+<Text>
+مقاتل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="628" source = "afp" sentence = "True">
+<Text>
+شخص و إصابة 11 آخر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="629" source = "afp" sentence = "True">
+<Text>
+طائرة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="630" source = "afp" sentence = "True">
+<Text>
+مهاجم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="631" source = "afp" sentence = "True">
+<Text>
+أسعد القهوجي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="632" source = "afp" sentence = "True">
+<Text>
+شخص في عراق،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="633" source = "afp" sentence = "True">
+<Text>
+كل من في هو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="634" source = "afp" sentence = "True">
+<Text>
+نفذ عملية انتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="635" source = "afp" sentence = "True">
+<Text>
+ل ولاية المتحدة.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="636" source = "afp" sentence = "True">
+<Text>
+مجموعة اعتقد أن هو سياح غربيون في منطقة مدرج روماني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="637" source = "afp" sentence = "True">
+<Text>
+أربعة مهندسين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="638" source = "afp" sentence = "True">
+<Text>
+عبوة ناسف 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="639" source = "afp" sentence = "True">
+<Text>
+شخص آخر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="640" source = "afp" sentence = "True">
+<Text>
+روسي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="641" source = "afp" sentence = "True">
+<Text>
+إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="642" source = "afp" sentence = "True">
+<Text>
+خمسة فلسطيني،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="643" source = "afp" sentence = "True">
+<Text>
+قوة أمن و مجلس الصحوة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="644" source = "afp" sentence = "True">
+<Text>
+قرية (كرحه جوارحه بازان)
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="645" source = "afp" sentence = "True">
+<Text>
+الوحيدي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="646" source = "afp" sentence = "True">
+<Text>
+150 مدني افغانيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="647" source = "afp" sentence = "True">
+<Text>
+مسلح مجهول 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="648" source = "afp" sentence = "True">
+<Text>
+مار 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="649" source = "afp" sentence = "True">
+<Text>
+مديرية صحة صلاح الدين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="650" source = "afp" sentence = "True">
+<Text>
+23 من كوري الجنوبيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="651" source = "afp" sentence = "True">
+<Text>
+سيارة مستاجرة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="652" source = "afp" sentence = "True">
+<Text>
+عميد فرنسوا الحاج،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="653" source = "afp" sentence = "True">
+<Text>
+مسلح إسلامي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="654" source = "afp" sentence = "True">
+<Text>
+منطقة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="655" source = "afp" sentence = "True">
+<Text>
+جيش إسلام 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="656" source = "afp" sentence = "True">
+<Text>
+ضربة جوي أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="657" source = "afp" sentence = "True">
+<Text>
+حسام حرب 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="658" source = "afp" sentence = "True">
+<Text>
+جميل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="659" source = "afp" sentence = "True">
+<Text>
+متطرف إسلامي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="660" source = "afp" sentence = "True">
+<Text>
+الزوار شيعة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="661" source = "afp" sentence = "True">
+<Text>
+شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="662" source = "afp" sentence = "True">
+<Text>
+منزل في منطقة شعشاعة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="663" source = "afp" sentence = "True">
+<Text>
+37 شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="664" source = "afp" sentence = "True">
+<Text>
+انتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="665" source = "afp" sentence = "True">
+<Text>
+وزير تعليم عالي عراقي سامي المظفر،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="666" source = "afp" sentence = "True">
+<Text>
+وأبو وأبو علي مصطفى 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="667" source = "afp" sentence = "True">
+<Text>
+مجلس إنقاذ ديالى»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="668" source = "afp" sentence = "True">
+<Text>
+إسرائيلي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="669" source = "afp" sentence = "True">
+<Text>
+من المتطوعين ل جيش العراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="670" source = "afp" sentence = "True">
+<Text>
+أميركية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="671" source = "afp" sentence = "True">
+<Text>
+متشددو طالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="672" source = "afp" sentence = "True">
+<Text>
+كتيبة عز الدين القسام»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="673" source = "afp" sentence = "True">
+<Text>
+عراق 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="674" source = "afp" sentence = "True">
+<Text>
+مدني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="675" source = "afp" sentence = "True">
+<Text>
+دكتور عبد الوهاب المسيري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="676" source = "afp" sentence = "True">
+<Text>
+شخص؛
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="677" source = "afp" sentence = "True">
+<Text>
+آية الله على السيستاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="678" source = "afp" sentence = "True">
+<Text>
+شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="679" source = "afp" sentence = "True">
+<Text>
+إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="680" source = "afp" sentence = "True">
+<Text>
+بيتين في قرية دمادولة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="681" source = "afp" sentence = "True">
+<Text>
+مسلح من القبايل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="682" source = "afp" sentence = "True">
+<Text>
+جميع.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="683" source = "afp" sentence = "True">
+<Text>
+مسلح،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="684" source = "afp" sentence = "True">
+<Text>
+على السيستاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="685" source = "afp" sentence = "True">
+<Text>
+رئيس وزير صومال نور عدي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="686" source = "afp" sentence = "True">
+<Text>
+مدينة رئيسي بالدلتا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="687" source = "afp" sentence = "True">
+<Text>
+إسرائيل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="688" source = "afp" sentence = "True">
+<Text>
+سرية قدس»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="689" source = "afp" sentence = "True">
+<Text>
+حافل.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="690" source = "afp" sentence = "True">
+<Text>
+بلدة دير عمار جنوب مخيم.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="691" source = "afp" sentence = "True">
+<Text>
+15 مسلح 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="692" source = "afp" sentence = "True">
+<Text>
+زعيم طالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="693" source = "afp" sentence = "True">
+<Text>
+15 شخص في نقطة تفتيش وهمي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="694" source = "afp" sentence = "True">
+<Text>
+جيش باكستاني على 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="695" source = "afp" sentence = "True">
+<Text>
+فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="696" source = "afp" sentence = "True">
+<Text>
+مسلحو حماس 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="697" source = "afp" sentence = "True">
+<Text>
+موكب جميل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="698" source = "afp" sentence = "True">
+<Text>
+مقصف قصد هوو طالب جامعة بغداد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="699" source = "afp" sentence = "True">
+<Text>
+ساكن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="700" source = "afp" sentence = "True">
+<Text>
+شخص على أقل و إصابة 18 آخر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="701" source = "afp" sentence = "True">
+<Text>
+مق ولي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="702" source = "afp" sentence = "True">
+<Text>
+أحد عنصر كتيبة قسام، جناح عسكري ل حركة حماس، ويدعى أسعد القهوجي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="703" source = "afp" sentence = "True">
+<Text>
+قوة مدافع 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="704" source = "afp" sentence = "True">
+<Text>
+قبائل عربي منفلتة»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="705" source = "afp" sentence = "True">
+<Text>
+مستوطني براخة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="706" source = "afp" sentence = "True">
+<Text>
+دوري ل قوة الاميركية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="707" source = "afp" sentence = "True">
+<Text>
+انتحاريا قاد سيارة مفخخة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="708" source = "afp" sentence = "True">
+<Text>
+وسرية مقاومة موحد،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="709" source = "afp" sentence = "True">
+<Text>
+متشددين سلاميين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="710" source = "afp" sentence = "True">
+<Text>
+قوة أجنبي.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="711" source = "afp" sentence = "True">
+<Text>
+طائفة اليزيدية في 3 إحياء في موصل.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="712" source = "afp" sentence = "True">
+<Text>
+خمسة من عضو «مجلس إنقاذ ديالى»،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="713" source = "afp" sentence = "True">
+<Text>
+حركة طالبان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="714" source = "afp" sentence = "True">
+<Text>
+لطالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="715" source = "afp" sentence = "True">
+<Text>
+جندي تركيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="716" source = "afp" sentence = "True">
+<Text>
+ثكنة عسكري في مدينة دلس 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="717" source = "afp" sentence = "True">
+<Text>
+شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="718" source = "afp" sentence = "True">
+<Text>
+بريطانيين من مركز للكمبيوتر في وزارة مالية عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="719" source = "afp" sentence = "True">
+<Text>
+عملية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="720" source = "afp" sentence = "True">
+<Text>
+موظف بريطاني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="721" source = "afp" sentence = "True">
+<Text>
+شاب مسيحي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="722" source = "afp" sentence = "True">
+<Text>
+قطاع 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="723" source = "afp" sentence = "True">
+<Text>
+سوق الكرادة وسط بغداد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="724" source = "afp" sentence = "True">
+<Text>
+26 شخص بين هو ستة جندي عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="725" source = "afp" sentence = "True">
+<Text>
+جندي متمرد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="726" source = "afp" sentence = "True">
+<Text>
+سوري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="727" source = "afp" sentence = "True">
+<Text>
+امجد وهبة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="728" source = "afp" sentence = "True">
+<Text>
+جورجيتين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="729" source = "afp" sentence = "True">
+<Text>
+نائب أنطوان غانم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="730" source = "afp" sentence = "True">
+<Text>
+عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="731" source = "afp" sentence = "True">
+<Text>
+أميركية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="732" source = "afp" sentence = "True">
+<Text>
+محمد عمر ديري عمدة عاصمة صومالي مقديشو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="733" source = "afp" sentence = "True">
+<Text>
+مسلح من تنظيم «قاعدة»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="734" source = "afp" sentence = "True">
+<Text>
+اقليم السند 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="735" source = "afp" sentence = "True">
+<Text>
+طالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="736" source = "afp" sentence = "True">
+<Text>
+جيش إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="737" source = "afp" sentence = "True">
+<Text>
+نقطة تفتيش مشترك، ل جيش الاميركي والقوات العراقية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="738" source = "afp" sentence = "True">
+<Text>
+سجن إسرائيلي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="739" source = "afp" sentence = "True">
+<Text>
+جندي باكستانيين، من قوة حفظ سلام تابع ل أمة المتحدة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="740" source = "afp" sentence = "True">
+<Text>
+مسلح إسلامي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="741" source = "afp" sentence = "True">
+<Text>
+مهاجم انتحاريا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="742" source = "afp" sentence = "True">
+<Text>
+قتيل.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="743" source = "afp" sentence = "True">
+<Text>
+«دولة عراق إسلامي»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="744" source = "afp" sentence = "True">
+<Text>
+شيعي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="745" source = "afp" sentence = "True">
+<Text>
+مواطن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="746" source = "afp" sentence = "True">
+<Text>
+إسرائيلي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="747" source = "afp" sentence = "True">
+<Text>
+طائرة أميركي ب دون طيار 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="748" source = "afp" sentence = "True">
+<Text>
+12 شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="749" source = "afp" sentence = "True">
+<Text>
+حركة جهاد إسلامي فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="750" source = "afp" sentence = "True">
+<Text>
+أحد شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="751" source = "afp" sentence = "True">
+<Text>
+3 انتحاريين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="752" source = "afp" sentence = "True">
+<Text>
+جندي أجنبي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="753" source = "afp" sentence = "True">
+<Text>
+رئيس حزب حليف للرئيس الباكستاني علي اصف زرداري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="754" source = "afp" sentence = "True">
+<Text>
+عماد مغني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="755" source = "afp" sentence = "True">
+<Text>
+برجال مسلح 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="756" source = "afp" sentence = "True">
+<Text>
+طائرة ب دون طيار تابعة ل وكالة المخابرات المركزية الاميركية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="757" source = "afp" sentence = "True">
+<Text>
+قطارات 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="758" source = "afp" sentence = "True">
+<Text>
+اربعون شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="759" source = "afp" sentence = "True">
+<Text>
+18 شخص في عراق،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="760" source = "afp" sentence = "True">
+<Text>
+ب اسم عاشور 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="761" source = "afp" sentence = "True">
+<Text>
+أمن مصري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="762" source = "afp" sentence = "True">
+<Text>
+أمين عام سابق ل حزب الشيوعي جورج حاوي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="763" source = "afp" sentence = "True">
+<Text>
+12 قتيل.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="764" source = "afp" sentence = "True">
+<Text>
+، القبة ذهبي لمرقد الامامين علي الهادي والحسن عسكري في سامراء.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="765" source = "afp" sentence = "True">
+<Text>
+دورية بريطاني على طريق دولي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="766" source = "afp" sentence = "True">
+<Text>
+اجتماع ل قوة الصحوة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="767" source = "afp" sentence = "True">
+<Text>
+موقع 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="768" source = "afp" sentence = "True">
+<Text>
+مقاتلو الطوارق 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="769" source = "afp" sentence = "True">
+<Text>
+ل شرطة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="770" source = "afp" sentence = "True">
+<Text>
+جندي أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="771" source = "afp" sentence = "True">
+<Text>
+قيادي في حركة حماس 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="772" source = "afp" sentence = "True">
+<Text>
+الجندي الاميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="773" source = "afp" sentence = "True">
+<Text>
+اميركيان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="774" source = "afp" sentence = "True">
+<Text>
+إذاستا جامعيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="775" source = "afp" sentence = "True">
+<Text>
+جندي في سلاح مدفعية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="776" source = "afp" sentence = "True">
+<Text>
+قراصنة صوماليون.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="777" source = "afp" sentence = "True">
+<Text>
+قوة الناتو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="778" source = "afp" sentence = "True">
+<Text>
+مدني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="779" source = "afp" sentence = "True">
+<Text>
+مركز شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="780" source = "afp" sentence = "True">
+<Text>
+مركز جيش 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="781" source = "afp" sentence = "True">
+<Text>
+سفينة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="782" source = "afp" sentence = "True">
+<Text>
+سيارة مفخخة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="783" source = "afp" sentence = "True">
+<Text>
+صحافي و نائب جبران تويني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="784" source = "afp" sentence = "True">
+<Text>
+عنصر قوة الصحوة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="785" source = "afp" sentence = "True">
+<Text>
+جندي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="786" source = "afp" sentence = "True">
+<Text>
+الذي أحاطى بسيارة الهامر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="787" source = "afp" sentence = "True">
+<Text>
+مدير إقليمي ل«شركة جزائري مصري ل تجارة والتصنيع»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="788" source = "afp" sentence = "True">
+<Text>
+شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="789" source = "afp" sentence = "True">
+<Text>
+موالي ل حركة طالبان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="790" source = "afp" sentence = "True">
+<Text>
+هٰذا مجموعة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="791" source = "afp" sentence = "True">
+<Text>
+ألوية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="792" source = "afp" sentence = "True">
+<Text>
+قاعدة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="793" source = "afp" sentence = "True">
+<Text>
+شرطيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="794" source = "afp" sentence = "True">
+<Text>
+ثمانية شخص،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="795" source = "afp" sentence = "True">
+<Text>
+شرطي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="796" source = "afp" sentence = "True">
+<Text>
+17 فرد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="797" source = "afp" sentence = "True">
+<Text>
+قأعدة لتدريب لتدريب أ إرهأبي»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="798" source = "afp" sentence = "True">
+<Text>
+مسلح 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="799" source = "afp" sentence = "True">
+<Text>
+دولة عراق إسلامي»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="800" source = "afp" sentence = "True">
+<Text>
+جنوب لبنان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="801" source = "afp" sentence = "True">
+<Text>
+شخص 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="802" source = "afp" sentence = "True">
+<Text>
+شخص مختبيين خلف اشجار 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="803" source = "afp" sentence = "True">
+<Text>
+المارينز»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="804" source = "afp" sentence = "True">
+<Text>
+مواطن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="805" source = "afp" sentence = "True">
+<Text>
+مجموعة من حوالى ثلاثون طالب من مسجد أحمر 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="806" source = "afp" sentence = "True">
+<Text>
+سوق أول في حي الحسينية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="807" source = "afp" sentence = "True">
+<Text>
+قائد أول مجلس للصحوة شكل في مدينة كركوك لمقاتلة تنظيم 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="808" source = "afp" sentence = "True">
+<Text>
+جندي «المارينز»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="809" source = "afp" sentence = "True">
+<Text>
+رجل شرطة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="810" source = "afp" sentence = "True">
+<Text>
+شخصان 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="811" source = "afp" sentence = "True">
+<Text>
+قوة الدرك رومب سجن 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="812" source = "afp" sentence = "True">
+<Text>
+مقر للتطوع 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="813" source = "afp" sentence = "True">
+<Text>
+مجلس أعيان الصحوة،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="814" source = "afp" sentence = "True">
+<Text>
+القنصل أفغاني عام في بيشاور 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="815" source = "afp" sentence = "True">
+<Text>
+إرهابي،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="816" source = "afp" sentence = "True">
+<Text>
+كوري الجنوبيين 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="817" source = "afp" sentence = "True">
+<Text>
+ثلاثون متمرد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="818" source = "afp" sentence = "True">
+<Text>
+طائفة اليزيدية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="819" source = "afp" sentence = "True">
+<Text>
+عنصر شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="820" source = "afp" sentence = "True">
+<Text>
+شرطة عراقي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="821" source = "afp" sentence = "True">
+<Text>
+قائد شرطة نجدة في بغداد،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="822" source = "afp" sentence = "True">
+<Text>
+جانب قناة أمريكي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="823" source = "afp" sentence = "True">
+<Text>
+جسر غربي مدين موصل 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="824" source = "afp" sentence = "True">
+<Text>
+حاجزا للتفتيش قرب أحد مداخل مدينة صدر شرق بغداد.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="825" source = "afp" sentence = "True">
+<Text>
+مواطن فلسطيني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="826" source = "afp" sentence = "True">
+<Text>
+انتحاريا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="827" source = "afp" sentence = "True">
+<Text>
+نبيل شعث 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="828" source = "afp" sentence = "True">
+<Text>
+الزوار شيعة في بغداد 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="829" source = "afp" sentence = "True">
+<Text>
+عنصر الخلية،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="830" source = "afp" sentence = "True">
+<Text>
+هجوم انتحاري مزدوج 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="831" source = "afp" sentence = "True">
+<Text>
+11 مسلح،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="832" source = "afp" sentence = "True">
+<Text>
+قوة أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="833" source = "afp" sentence = "True">
+<Text>
+اميركيا 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="834" source = "afp" sentence = "True">
+<Text>
+قوة مكافحة إرهاب 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="835" source = "afp" sentence = "True">
+<Text>
+الدار أبيض،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="836" source = "afp" sentence = "True">
+<Text>
+قرية غرب إقليم لاقليم ألمضطرب،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="837" source = "afp" sentence = "True">
+<Text>
+قتيل.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="838" source = "afp" sentence = "True">
+<Text>
+عضو كتلة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="839" source = "afp" sentence = "True">
+<Text>
+كرامي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="840" source = "afp" sentence = "True">
+<Text>
+ل شيعة التركمان،
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="841" source = "afp" sentence = "True">
+<Text>
+كتيبة قسام»
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="842" source = "afp" sentence = "True">
+<Text>
+طائرة ب دون طيار تابعة ل قوة الاميركية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="843" source = "afp" sentence = "True">
+<Text>
+بلدة والقرى مجاور 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="844" source = "afp" sentence = "True">
+<Text>
+من قوة حفظ سلام تابع ل أمة المتحدة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="845" source = "afp" sentence = "True">
+<Text>
+باسلحة صغير.
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="846" source = "afp" sentence = "True">
+<Text>
+اثنان من مدني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="847" source = "afp" sentence = "True">
+<Text>
+الظواهري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="848" source = "afp" sentence = "True">
+<Text>
+11 مدني واربعة من رجل شرطة 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="849" source = "afp" sentence = "True">
+<Text>
+مقاتل البيشمركة كردي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="850" source = "afp" sentence = "True">
+<Text>
+تفجير انتحاري 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="851" source = "afp" sentence = "True">
+<Text>
+باتجاه هو 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="852" source = "afp" sentence = "True">
+<Text>
+أحد فرد أمن وطني 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="853" source = "afp" sentence = "True">
+<Text>
+جندي أميركي 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="854" source = "afp" sentence = "True">
+<Text>
+دورية 
+</Text>
+</Sentence>
+<Sentence date = "20000715" id="855" source = "afp" sentence = "True">
+<Text>
+قوة أمن الافغانية و دولي 
+</Text>
+</Sentence>
+</Sentences>
