@@ -1,2 +1,6 @@
 scripts_and_code/Cameo-Dictionaries-For-Foreign-Langugaes/output/*
 .DS_Store
+.ipynb_checkpoints/*.*
+scripts_and_code/scripts/.ipynb_checkpoints/*.*
+scripts_and_code/stage3/.ipynb_checkpoints/*.*
+scripts_and_code/wiki_scrapper/.ipynb_checkpoints/*.*
